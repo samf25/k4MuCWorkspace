@@ -4,11 +4,7 @@ export PATH=${buildDir}/bin:$PATH
 export LD_LIBRARY_PATH=${buildDir}/lib:${buildDir}/lib64:$LD_LIBRARY_PATH
 export ROOT_INCLUDE_PATH=${buildDir}/include:$ROOT_INCLUDE_PATH
 export PYTHONPATH=${buildDir}/python:$PYTHONPATH
-cd ..
-export PYTHONPATH=${PWD}/digitization:$PYTHONPATH
-export PYTHONPATH=${PWD}/reconstruction:$PYTHONPATH
 export CMAKE_PREFIX_PATH=${buildDir}:$CMAKE_PREFIX_PATH
-cd k4MuCPlayground
 
 
 export LD_LIBRARY_PATH=/opt/spack/opt/spack/linux-almalinux9-x86_64/gcc-11.5.0/acts-32.1.0-yacvft6qr5l5ra67k7ss4mnvfbju6qza/lib:$LD_LIBRARY_PATH
