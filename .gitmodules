@@ -1,16 +1,16 @@
 [submodule "packages/ACTSTracking"]
 	path = packages/ACTSTracking
-	url = https://github.com/samf25/ACTSTracking/tree/multiK4FWC
+	url = https://github.com/samf25/ACTSTracking.git
 	branch = multiK4FWC
 [submodule "packages/k4GaudiPandora"]
 	path = packages/k4GaudiPandora
-	url = https://github.com/samf25/k4GaudiPandora/tree/k4FWC
+	url = https://github.com/samf25/k4GaudiPandora.git
 	branch = k4FWC
 [submodule "packages/k4Reco"]
 	path = packages/k4Reco
-	url = https://github.com/samf25/k4Reco
+	url = https://github.com/samf25/k4Reco.git
 	branch = main
 [submodule "packages/RealisticCaloDigi"]
 	path = packages/RealisticCaloDigi
-	url = https://github.com/samf25/RealisticCaloDigi
+	url = https://github.com/samf25/RealisticCaloDigi.git
 	branch = main
